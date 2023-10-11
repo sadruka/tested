@@ -5,7 +5,7 @@ import java.util.*;
 public class StudentList {
 	public static void main(String[] args) {
 
-		// Check arguments
+		// Check arguments step 2
 		if (args[0].equals("a")) {
 			
 			System.out.println("Loading data ...");
